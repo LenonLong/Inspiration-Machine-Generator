@@ -1,0 +1,19 @@
+{
+  "name": "inspiration-machine-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomQuotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenonLong/Inspiration-Machine-Generator.git"
+  },
+  "author": "Lenon Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LenonLong/Inspiration-Machine-Generator/issues"
+  },
+  "homepage": "https://github.com/LenonLong/Inspiration-Machine-Generator#readme"
+}
